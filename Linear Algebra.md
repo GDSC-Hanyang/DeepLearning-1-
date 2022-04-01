@@ -1,5 +1,5 @@
-#eigendecomposition
-
+eigendecomposition
+=====
 
 eigenvector(고유벡터) 
 ----
@@ -27,14 +27,16 @@ eigenvector들은 서로 수직
 
 
 
-#Moore-Penrose pseudoinverse
-
+Moore-Penrose pseudoinverse
+=========
 
 유사역행렬
 
-###정의 
+정의 
+---
 ![image](https://user-images.githubusercontent.com/89207256/161244891-e8cf7c77-e4bc-4533-a0fd-b9435b46e4ea.png)
 
 
-###공식 
+공식
+---
 ![image](https://user-images.githubusercontent.com/89207256/161245673-1bd89fec-8b0a-4392-8c78-21d9266fdea1.png)
