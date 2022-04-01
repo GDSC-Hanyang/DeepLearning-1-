@@ -1,5 +1,5 @@
-eigendecomposition
-=========
+#eigendecomposition
+
 
 eigenvector(고유벡터) 
 ----
@@ -27,14 +27,15 @@ eigenvector들은 서로 수직이므로
 $$ V^{-1} = V^{T} $$
 
 
-$$
+\[
 A = UDV^{T}
-$$
+\]
 
 
 
-Moore-Penrose pseudoinverse
-=====
+#Moore-Penrose pseudoinverse
+
+
 유사역행렬
 
 정의 : ![image](https://user-images.githubusercontent.com/89207256/161244891-e8cf7c77-e4bc-4533-a0fd-b9435b46e4ea.png)
