@@ -8,6 +8,8 @@ matrix의 column 개수만큼 (차원의 개수만큼) 존재
 
 ![image](https://user-images.githubusercontent.com/89207256/161242862-cfa078e4-98c9-45d8-9a1c-0f5b745e5155.png)
 
+![image](https://user-images.githubusercontent.com/89207256/161247527-e8ab7018-2182-4a91-adca-f21706ca07a1.png)
+
 eigenvalue(고유값)
 ----
 고유벡터들의 변화한 크기값
