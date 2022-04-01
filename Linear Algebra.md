@@ -13,23 +13,17 @@ eigenvalue(고유값)
 고유벡터들의 변화한 크기값
 matrix의 차원의 개수와 동일
 
-$$
-A v =\lambda v
-$$
+
+![image](https://user-images.githubusercontent.com/89207256/161246121-6f603dde-5c2e-4e47-addd-abd1e5f7bb2a.png)
 
 
-$$
-A = V diag(\lambda) V^{-1}
-$$
+![image](https://user-images.githubusercontent.com/89207256/161245710-95dfb98a-ba80-4489-8d53-3ff5dad912b4.png)
 
 V : eigenvector 
-eigenvector들은 서로 수직이므로
-$$ V^{-1} = V^{T} $$
+eigenvector들은 서로 수직
 
 
-\[
-A = UDV^{T}
-\]
+![image](https://user-images.githubusercontent.com/89207256/161245766-86a78b72-4856-4420-8fbd-76d3f5566e65.png)
 
 
 
@@ -41,4 +35,4 @@ A = UDV^{T}
 정의 : ![image](https://user-images.githubusercontent.com/89207256/161244891-e8cf7c77-e4bc-4533-a0fd-b9435b46e4ea.png)
 
 
-공식 : $$ A^+ = VD^+ U^T
+공식 : ![image](https://user-images.githubusercontent.com/89207256/161245673-1bd89fec-8b0a-4392-8c78-21d9266fdea1.png)
