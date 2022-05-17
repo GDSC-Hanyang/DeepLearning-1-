@@ -13,6 +13,8 @@ poor conditioning
 conditioning : 작은 입력의 변화에 얼마나 빨리 함수가 변하는가
 condition number : 행렬이 eigenvalue decomposition이 가능할 때 가장 큰 고유치와 가장 작은 고유치의 비 값이 크면 입력의 오차에 민감하다
                   ![image](https://user-images.githubusercontent.com/89207256/168807025-2348ac8b-cef1-41a7-8404-8dd542cc82e1.png)
+                    
+                    
                     민감도는 행렬의 고유 문제
                     poor conditioned 행렬은 역행렬로 곱해질 때 오차를 증폭함
 
@@ -70,3 +72,5 @@ gradient descent : ![image](https://user-images.githubusercontent.com/89207256/1
 newton's method : true function이 quadratic이므로 한번에 global minimum을 구할 수 있음
 lagrangian : 제약조건 추가
              제약 조건을 넘어가는 경우에는 gradient ascent로 제약 조건을 만족하도록 함
+
+출처 : https://blog.naver.com/sparko7/221546751620
